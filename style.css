@@ -1,0 +1,12 @@
+.navbar {
+  width: 1110px;
+  margin: 0 auto;
+}
+#card-mode:hover,
+#list-mode:hover {
+  transform: scale(1.2, 1.2);
+}
+#list-avatar {
+  width: 80px;
+  border-radius: 10px;
+}
